@@ -1,0 +1,13 @@
+header {
+    background-color: #5B028E;
+    margin: 0;
+    height: 65px;
+}
+
+#icon {
+    position: relative;
+    margin-left: 7%;
+    float: right;
+    margin: 18px;
+    
+}
