@@ -1,0 +1,121 @@
+@font-face {
+    font-family: Helvetica, Arial, sans-serif;
+    src: url();
+}
+
+body {
+    width: 480px;
+    background-color: #5B028E;
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#logo-1 {
+    width: 50%;
+    height: 30%;
+}
+
+#logo-2 {
+    width: 50%;
+    height: 30%;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+#d-login {
+    background-color: white;
+    width: 320px;
+    height: 340px;
+    margin: 0%;
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+main div h2 {
+    margin: 0%;
+    padding-top: 35px;
+    padding-right: 60%;
+    font-size: x-large;
+}
+
+#t-email {
+    margin: 0%;
+    padding-top: 30px;
+    padding-right: 70%;
+    font-size: small;
+}
+
+#t-senha {
+    margin: 0%;
+    padding-top: 10px;
+    padding-right: 70%;
+    font-size: small;
+}
+
+main div input {
+    width: 250px;
+    height: 30px;
+    border: 0px;
+    border-radius: 8px;
+    background-color: #EEEEEE;
+}
+
+#senha-ex {
+    padding-top: 5px;
+    padding-left: 30px;
+    width: 100px;
+    margin: 0%;
+    font-size: small;
+}
+
+#checkbox-d {
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.checkbox-dd {
+    width: 20px;
+    border-radius: 8px;
+    margin-right: 10px;
+    border: 0px;
+}
+
+#h5-c {
+    margin: 0%;
+    padding-top: 10px;
+}
+
+#button-cadastro {
+    width: 130px;
+    height: 36px;
+    border-radius: 8px;
+    border-color: #5B028E;
+    border: 2px;
+    border-style: solid;
+    color: #5B028E;
+    margin-top: 20px;
+    background-color: #FFFFFF;
+    font-weight: 700;
+    font-size: medium;
+}
+
+#button-login {
+    width: 130px;
+    height: 36px;
+    border-radius: 8px;
+    border: 0px;
+    background-color: #5B028E;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: medium;
+}
+
