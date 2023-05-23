@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+/* --PARTE SUPERIOR-- */
+
+@media screen and (min-width: 480px) {
+
+
+
+body {
+  background-color: #efefef;
+
+}
+
+header {
+  background-color: #5B028E;
+  margin: 0;
+  height: 65px;
+  
+}
+
+
+
+#v-menu {
+ font-family: 'Outfit', sans-serif;
+ font-size:120% ;
+ 
+ 
+ 
+}
+
+#v-menu ul{
+  background-color: white;
+
+  justify-content: center;
+  display: flex;
+  
+      
+
+}
+
+#v-menu li {
+  display: inline-block;
+  padding: 12px;
+  border-bottom: none;
+
+  
+  
+     
+}
+
+#v-menu li a {
+  display: block;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  
+}
+
+
+}
