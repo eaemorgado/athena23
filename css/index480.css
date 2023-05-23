@@ -23,6 +23,7 @@ header {
 
  #v-menu {
    font-family: 'Outfit', sans-serif;
+   font-size:120% ;
    
    
    
@@ -66,7 +67,9 @@ header {
 body main h3 {
     margin-left: 25px;
     margin-top: 25px;
+    font-size: 120%;
     font-weight: 600;
+    font-family: 'Outfit', sans-serif;
 }
 
 }
