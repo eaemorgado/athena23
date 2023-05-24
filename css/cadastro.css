@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
 body {
     width: 480px;
     background-color: #5B028E;
@@ -26,11 +28,13 @@ body {
 #d-login {
     background-color: white;
     width: 320px;
-    height: 440px;
+    height: 480px;
     margin: 0%;
     border-radius: 12px;
     text-align: center;
     margin-top: 50px;
+    font-family: 'Outfit', sans-serif;
+
 }
 
 main div h2 {
@@ -45,6 +49,7 @@ main div h2 {
     padding-top: 30px;
     padding-right: 70%;
     font-size: small;
+    margin-bottom: 5px;
 }
 
 #t-email {
@@ -52,6 +57,7 @@ main div h2 {
     padding-top: 10px;
     padding-right: 70%;
     font-size: small;
+    margin-bottom: 5px;
 }
 
 #t-senha {
@@ -59,6 +65,7 @@ main div h2 {
     padding-top: 10px;
     padding-right: 70%;
     font-size: small;
+    margin-bottom: 5px;
 }
 
 #t-confsenha {
@@ -66,6 +73,7 @@ main div h2 {
     padding-top: 10px;
     padding-right: 50%;
     font-size: small;
+    margin-bottom: 5px;
 }
 
 
@@ -116,6 +124,7 @@ main div input {
     background-color: #FFFFFF;
     font-weight: 700;
     font-size: medium;
+    
 }
 
 #button-login {
