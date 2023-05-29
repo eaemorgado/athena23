@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 
+body{
+    background-color: #f7f7f7;
+}
+
 body main h3 {
     margin-left: 25px;
     margin-top: 25px;
@@ -8,3 +12,24 @@ body main h3 {
     font-family: 'Outfit', sans-serif;
 }
 
+.produtos {
+    background-color: white;
+    height: 270px;
+    width: 200px;
+    border-radius: 18px;
+    margin-top: 20px;
+    overflow: hidden;
+    margin-left: 5%;
+}
+
+.area-produtos {
+    display: flex;
+    align-items: center;
+}
+
+.area-valor-produto {
+    background-image: url(img/mochila.png);
+    height: 95px;
+    width: 140px;
+
+}
